@@ -1,0 +1,23 @@
+.image{
+height:10rem;
+width:8rem;
+object-fit: cover;
+margin:10px;}
+
+.company-logo{
+height:30px;
+margin-right:20px;
+background-color: azure;
+border-radius: 10px;
+}
+
+.card{
+margin:20px;}
+
+.form-group{
+padding:5px;
+}
+
+#Action{
+margin:2px;}
+
